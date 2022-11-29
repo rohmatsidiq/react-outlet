@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 export default function Dashboard() {
   return (
     <div className='flex flex-row'>
-        <div className='w-[200px] h-screen bg-slate-200'>
+        <div className='w-[200px] h-screen bg-slate-100'>
             <div className='w-full h-[150px] bg-orange-500 flex justify-center items-center'>
                 <h1 className='text-white text-3xl'>Admin</h1>
             </div>
